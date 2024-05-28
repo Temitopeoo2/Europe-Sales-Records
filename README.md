@@ -16,3 +16,6 @@ The Dataset used for this project was gotten from Kaggle.com. The dataset is bas
 * Recommendations 
 * References
 
+## Data Collection
+
+
